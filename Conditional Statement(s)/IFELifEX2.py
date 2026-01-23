@@ -2,7 +2,7 @@
 if sno is 100 print police
 if sno is 101 print fire
 if sno is 104 print medical
-if sno is 108 print emergency
+if sno is 108 print EMRI
 else print invalid service number
 '''
 sno = int(input("Enter Service Number: "))
@@ -14,6 +14,6 @@ elif sno == 101:
 elif sno == 104:
     print("Medical")
 elif sno == 108:
-    print("Emergency")
+    print("EMRI")
 else:
     print("Invalid Service Number")
