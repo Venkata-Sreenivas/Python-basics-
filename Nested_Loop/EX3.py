@@ -1,0 +1,15 @@
+'''To print
+
+*****
+*****
+*****
+
+block'''
+
+import time
+
+for o in range(1,4):
+    for i in range(1,6):
+        time.sleep(.02)
+        print("*",end=' ')
+    print("")
