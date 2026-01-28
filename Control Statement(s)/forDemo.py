@@ -33,8 +33,6 @@ for i in s:
     
 print("=========================")
 
-st="Welcome"
-
 stu={"Sno":101,"Sname":"Sreenivas","Sage":20}
 print("Stu: ",stu)
 
@@ -42,4 +40,5 @@ for i in stu:
     time.sleep(0.2)
     print(i)
     
+
 print("===========================================")
