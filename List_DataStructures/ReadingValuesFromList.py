@@ -15,8 +15,3 @@ print("First 3 objects: ",lst[0:3:1])
 print("Last 3 Objects: ",lst[3:6:1])
 print("Last 3 Objects in reverse: ",lst[-1:-4:-1])
 print("=====================================")
-
-#Unpacking
-#Unpacking Using Slicing
-#While
-#For
